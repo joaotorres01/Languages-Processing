@@ -1,0 +1,32 @@
+[
+    {
+        "Número": 3162,
+        "No{,}me": "Cândido Faísca",
+        "Curso": "Teatro",
+        "Notas_sum": null,
+        "Notas_media": null,
+        "Notas_median": null,
+        "Notas_mode": null,
+        "Notas_range": null
+    },
+    {
+        "Número": null,
+        "No{,}me": "Cristiano,Ronaldo",
+        "Curso": "Desporto",
+        "Notas_sum": 72.0,
+        "Notas_media": 14.4,
+        "Notas_median": 12.0,
+        "Notas_mode": 12.0,
+        "Notas_range": 9.0
+    },
+    {
+        "Número": 264,
+        "No{,}me": "Marcelo Sousa",
+        "Curso": "Ciência, Política",
+        "Notas_sum": 76.0,
+        "Notas_media": 19.0,
+        "Notas_median": 19.0,
+        "Notas_mode": 19.0,
+        "Notas_range": 2.0
+    }
+]

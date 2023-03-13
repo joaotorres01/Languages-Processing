@@ -1,0 +1,23 @@
+[
+    {
+        "Número": 3162,
+        "Nome": "Cândido Faísca",
+        "Curso": "Teatro",
+        "Notas_media": 13.0,
+        "Notas_range": 2.0
+    },
+    {
+        "Número": 7777,
+        "Nome": "Cristiano Ronaldo",
+        "Curso": "Desporto",
+        "Notas_media": 14.4,
+        "Notas_range": 9.0
+    },
+    {
+        "Número": 264,
+        "Nome": "Marcelo Sousa",
+        "Curso": "Ciência Política",
+        "Notas_media": 19.0,
+        "Notas_range": 2.0
+    }
+]
